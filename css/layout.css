@@ -338,7 +338,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 .photoshop {
-  	width: 30%;
+  	width: 85%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -358,12 +358,12 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: illustrator 2s ease;
 }
 .wordpress {
-  	width: 30%;
+  	width: 70%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 60%;
+  	width: 75%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -373,7 +373,7 @@ ul#nav li.current a { color: #11ABB0; }
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 40%;
+  	width: 80%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
